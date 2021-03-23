@@ -45,7 +45,7 @@ css를 작성하는 많은 방법론이 있다.
 
 아래 내용은 tailwindcss document에 있는 core concepts의 첫번째 내용이다.
 
-Traditionally, whenever you need to style something on the web, you write CSS.
+전통적으로, 웹에서 스타일링이 필요할때마다, 우린 css를 작성한다.
 
 ```html
 <div class="chat-notification">
@@ -92,7 +92,7 @@ Traditionally, whenever you need to style something on the web, you write CSS.
 </style>
 ```
 
-With Tailwind, you style elements by applying pre-existing classes directly in your HTML.
+tailwind을 쓰면 너는 이미 있는 클래스들로 바로 html에서 작성한다.
 
 ```html
 <div class="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-md flex items-center space-x-4">
@@ -119,6 +119,7 @@ With Tailwind, you style elements by applying pre-existing classes directly in y
 특정 마크업을 지울때도 딱히 css파일에서 찾아서 지워줄 필요도 없다.
 
 물론 맨처음에 이런 코드를 봤을때는 이게 인라인 스타일하고 뭐가 다른가 싶은 생각을 했었다. 
+
 
 하지만 확실한 장점은 class 이름을 뭘로 지을까 하는 고민을 줄이며 우리의 글로벌한 css를 수정할 때 어떤 사이드이펙트가 날까 고민하는 것도 줄이게된다.
 
