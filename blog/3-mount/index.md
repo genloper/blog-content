@@ -1,5 +1,5 @@
 ---
-title: [짧] Ubuntu 에서 (외장) 하드디스크 사용하기 
+title: '[짧] Ubuntu 에서 (외장) 하드디스크 사용하기 '
 date: '2021-03-23'
 tags: ['ubuntu', 'linux', '짧', '팁']
 cover: './img.png'

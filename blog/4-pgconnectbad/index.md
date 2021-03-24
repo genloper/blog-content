@@ -1,6 +1,6 @@
 ---
-title: '[짧] PG:ConnectionBad - could not connect to server: Connection refused '
-date: '2021-03-23'
+title: '[짧] PG:ConnectionBad - could not connect to server: Connection refused'
+date: '2021-03-24'
 tags: ['Rails', 'Postgresql', 'mac', 'linux', '짧', '팁']
 cover: './img.jpeg'
 
