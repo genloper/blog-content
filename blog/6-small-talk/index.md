@@ -1,12 +1,9 @@
 ---
-title: '[Small Talk] 주저리'
-date: '2021-03-26'
-tags: ['SmallTalk']
-cover: './img.png'
-
+title: "[Small Talk] 주저리"
+date: "2021-03-26"
+tags: ["SmallTalk"]
+cover: "./logo.jpg"
 ---
-
-
 
 글쓰는건 내게 어려운일이다.
 
@@ -39,8 +36,3 @@ post show에서 사이드바를 뺴거나 아래로 내리고싶고,
 회사일로는 nextjs, aws 배포자동화, cypress, nestjs, 앱하고 웹쪽으로 컴포넌트도 만들어야될게 산더미에..
 
 운동도해야하고 책도 읽어야하는데 이번년도도 꼼짝없이 노트북만 잡고 살겠네 행복하다
-
-
-
-
-
