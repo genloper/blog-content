@@ -2,7 +2,7 @@
 title: "[JS] 클로저 Closure - 1"
 date: "2021-04-01"
 tags: ["js"]
-cover: "./logo.jpg"
+cover: "./logo.png"
 ---
 
 ## 내부함수
@@ -136,8 +136,17 @@ alert(counter2.value()); /* 0 */
 * 클로저들이 `counter.increment` `counter.decrement` `counter.value` 가 공유하는 어휘적 환경을 만든다
 * 각 클로저는 고유한 privateCounter 변수를 참조하며, 서로 영향을 주지 않는다.
 
+
+
+계속..
+
 References
 
-https://hyunseob.github.io/2016/08/30/javascript-closure/
+
+
+http://meetup.toast.com/posts/86
+http://meetup.toast.com/posts/90
+http://unikys.tistory.com/309
 https://opentutorials.org/course/743/6544
 https://developer.mozilla.org/ko/docs/Web/JavaScript/Closures
+http://blog.javarouka.me/2012/01/closure.html
