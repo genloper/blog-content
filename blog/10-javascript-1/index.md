@@ -54,7 +54,7 @@ cover: "./logo.jpg"
 - Pure Function
   - side effect 없이 함수의 실행이 외부에 영향을 끼치지 않는다.
 - Function composition
-- Curring
+- Currying
   - 여러 인자가 있는 함수를 하나의 인자를 갖는 함수로 분리시키는 것
 
 ### 그래서 어떻게 하나 ?

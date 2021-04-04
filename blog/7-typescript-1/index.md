@@ -1,5 +1,5 @@
 ---
-title: "TypeScript"
+title: "[TypeScript] Intro - 1"
 date: "2021-03-27"
 tags: ["ts"]
 cover: "./typescript.jpeg"
@@ -7,9 +7,7 @@ cover: "./typescript.jpeg"
 
 ### TypeScript란?
 
-타입스크립트는 자바스크립트의 슈퍼셋이라고한다, 타입이 있고 컴파일 되어서 plain js를 만들어난대고 한다,
-
-오픈소스이다.
+타입스크립트는 자바스크립트의 슈퍼셋,  타입이 있고 컴파일 되어서 plain js를 만듦
 
 오픈소스 프로그래밍 언어이고, 정적인 언어로 compile time에 타입을 검사한다.
 

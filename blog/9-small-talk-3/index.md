@@ -26,3 +26,9 @@ cover: "./logo.jpg"
 | 정처기 공부 |
 | sqld 공부 |
 
+
+
+한글 검색 도움될 만한 글 발견함.
+
+https://taegon.kim/archives/9919#gaerae.com
+
