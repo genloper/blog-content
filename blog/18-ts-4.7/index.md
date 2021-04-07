@@ -1,5 +1,5 @@
 ---
-title: "[TypeScript] Generic"
+title: "[TypeScript] Class"
 date: "2021-04-07"
 tags: ["ts", 'js']
 cover: "./typescript.jpeg"
