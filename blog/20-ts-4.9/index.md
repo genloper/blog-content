@@ -1,6 +1,6 @@
 ---
 title: "[TypeScript] InterSection, Union, Type Guard"
-date: "2021-04-11"
+date: "2021-04-09"
 tags: ["ts", 'js']
 cover: "./typescript.jpeg"
 ---
